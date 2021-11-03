@@ -32,7 +32,6 @@ public class Brand extends IdBasedEntity {
 	private Set<Category> categories = new HashSet<>();
 
 	public Brand() {
-		
 	}
 	
 	public Brand(String name) {

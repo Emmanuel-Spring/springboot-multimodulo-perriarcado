@@ -18,8 +18,7 @@ import com.talentyco.admin.AmazonS3Util;
 import com.talentyco.admin.category.CategoryService;
 import com.talentyco.admin.paging.PagingAndSortingHelper;
 import com.talentyco.admin.paging.PagingAndSortingParam;
-import com.talentyco.common.entity.Brand;
-import com.talentyco.common.entity.Category;
+
 
 @Controller
 public class BrandController {
